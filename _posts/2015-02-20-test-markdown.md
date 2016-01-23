@@ -10,7 +10,7 @@ You can write regular [markdown](http://en.wikipedia.org/wiki/Markdown) here and
 
 ## Here is a secondary heading
 
-How about a yummy crepe?
+Add an image ....
 
 ![Crepe](http://lafenicegelato.com/wp-content/uploads/2014/09/crepes-with-chocolate.jpg)
 
