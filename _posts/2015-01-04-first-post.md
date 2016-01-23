@@ -3,4 +3,4 @@ layout: post
 title: First post!
 ---
 
-This is my first post, how exciting!
+This is a test .... simple post.
