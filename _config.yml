@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   About Me: "aboutme"
   Research: "research"
-  Author's home: "http://www.idatafactory.com"
+  # Author's home: "http://www.idatafactory.com"
   
 # --- Footer options --- #
 
