@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reseach
+title: Research
 subtitle: Old and new projects
 ---
 
