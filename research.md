@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Reseach
-subtitle: First test
+subtitle: Old and new projects
 ---
 
-This is a test.... will add links and etc....
+The R server is located [here] (http://52.24.173.190:8787/auth-sign-in)
 
