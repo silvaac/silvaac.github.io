@@ -26,7 +26,9 @@ Traditional momentum involves a portfolio of assets therefore cross-correlation 
 
 Here ...
 
-# Material and code for SYMMYS ARPM bootcamp (2015)
+# Material and code from ARPM bootcamp (2015)
+
+I have attempted to put together all matlab code, publications and slides from the Attilio Meucci's [ARPM Bootcamp](http://www.symmys.com/arpm-bootcamp) to make it is easy to find information. The materials are on [github](https://github.com/silvaac/symmys). I have also added R code from [R-forge meucci package](https://r-forge.r-project.org/scm/viewvc.php/pkg/Meucci/?root=returnanalytics).
 
 [Montecarlo simulation of stochastic processes](http://52.24.173.190:3838/probProcesses/)
 
