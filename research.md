@@ -10,4 +10,10 @@ This site is under construction.
 
 Test application link:
 
-[Interactive app](http://52.24.173.190:3838/sample-apps/hello)
+[Montecarlo simulation of stochastic processes](http://52.24.173.190:3838/probProcesses/)
+
+Presentation:
+
+[QCMC15](http://52.24.173.190:3838/QCMC15)
+
+
