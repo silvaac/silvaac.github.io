@@ -4,7 +4,7 @@ title: Research
 subtitle: Old and new projects
 ---
 
-# Mathematical formulation of trading strategies
+# Math formulation of trading strategies
 
 ## Time-series momentum (trend-following)
 
@@ -20,17 +20,23 @@ The latest preprint can be found [here](http://arxiv.org/abs/1402.3030) or [here
 
 ## Momentum
 
-Traditional momentum involves a portfolio of assets therefore cross-correlation between assets is important. 
-
-# Older research 
-
-Here ...
+Traditional momentum involves a portfolio of assets therefore cross-correlation between assets is important. We are looking into formulations that describe such correlations and their significance. 
 
 # Material and code from ARPM bootcamp (2015)
 
 I have attempted to put together all matlab code, publications and slides from the Attilio Meucci's [ARPM Bootcamp](http://www.symmys.com/arpm-bootcamp) to make it is easy to find information. The materials are on [github](https://github.com/silvaac/symmys). I have also added R code from [R-forge meucci package](https://r-forge.r-project.org/scm/viewvc.php/pkg/Meucci/?root=returnanalytics).
 
-[Montecarlo simulation of stochastic processes](http://52.24.173.190:3838/probProcesses/)
+This is a simple Shiny application to simulate market invariants: [Montecarlo simulation](http://52.24.173.190:3838/probProcesses/)
 
+# Sample of older published research
+
+[Stochastic Resonance](http://www.tandfonline.com/doi/abs/10.1080/14697680903067146)
+[Stochastic Resonance Preprint](http://arxiv.org/abs/0807.0925)
+
+[Virtual Volatility](http://arxiv.org/abs/physics/0607101)
+
+[Stochastic volatility of financial markets as the fluctuating rate of trading: An empirical study](http://arxiv.org/abs/physics/0608299)
+
+[Exponential distribution of financial returns at mesoscopic time lags: a new stylized fact](http://www.sciencedirect.com/science/article/pii/S0378437104009409)
 
 
