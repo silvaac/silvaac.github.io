@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Test page...
+subtitle: A. Christian Silva
 ---
 
-This is a test page... still under construction
+I graduated with a PhD in Physics from the University of Maryland under the supervision of Profesor [Victor Yakovenko](http://physics.umd.edu/~yakovenk/econophysics/). 
 
-- Test1
-- Test2
+Durring my time as a graduate student at UMD I also had the privilage of working with Profesors:
 
-This is a test
+- [Richard Prange](http://www.umdphysics.umd.edu/about-us/awards/2-uncategorised/263-prangeprize.html)
+- [Dilip Mandan](http://www.rhsmith.umd.edu/directory/dilip-b-madan)
+- [Rajarshi Roy](http://www.ipr.umd.edu/~rroy/)
 
-### Section test
-
-Link test [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) works well.
+I have worked in the asset managemnt industry since my graduation in 2005.
