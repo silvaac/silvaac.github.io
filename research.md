@@ -30,7 +30,7 @@ This is a simple Shiny application to simulate market invariants: [Monte Carlo S
 
 # Sample of older published research
 
-- [Stochastic resonance and the trade arival of stocks](http://www.tandfonline.com/doi/abs/10.1080/14697680903067146). The preprint can be found [here] (http://arxiv.org/abs/0807.0925)
+- [Stochastic resonance and the trade arival of stocks](http://www.tandfonline.com/doi/abs/10.1080/14697680903067146). The preprint can be found [here](http://arxiv.org/abs/0807.0925)
 
 - [Virtual Volatility](http://www.sciencedirect.com/science/article/pii/S0378437106010648). The preprint can be found [here](http://arxiv.org/abs/physics/0607101)
 
