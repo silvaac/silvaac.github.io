@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   About Me: "aboutme"
   Research: "research"
-  R Server: "http://52.24.173.190:8787/auth-sign-in"
+  R Server: "http://52.25.23.86:8787/auth-sign-in"
   # Author's home: "http://www.idatafactory.com"
   
 # --- Footer options --- #
