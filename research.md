@@ -22,12 +22,6 @@ The latest preprint can be found [here](http://arxiv.org/abs/1402.3030) or [here
 
 Traditional momentum involves a portfolio of assets therefore cross-correlation between assets is important. We are looking into formulations that describe such correlations and their significance. 
 
-# Material from ARPM bootcamp (2015)
-
-I have attempted to put together all matlab code, publications and slides from Attilio Meucci's [ARPM Bootcamp](http://www.symmys.com/arpm-bootcamp). The materials are on [github](https://github.com/silvaac/symmys). I have also added R code from [R-forge meucci package](https://r-forge.r-project.org/scm/viewvc.php/pkg/Meucci/?root=returnanalytics). 
-
-This is a simple Shiny application to simulate market invariants: [Monte Carlo Simulation](http://52.25.23.86:3838/probProcesses/)
-
 # Sample of older published research
 
 - [Stochastic resonance and the trade arival of stocks](http://www.tandfonline.com/doi/abs/10.1080/14697680903067146). The preprint can be found [here](http://arxiv.org/abs/0807.0925)
