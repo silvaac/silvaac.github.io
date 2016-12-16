@@ -10,6 +10,6 @@ Durring my time as a graduate student at UMD I also had the privilage of working
 
 - [Richard Prange](http://www.umdphysics.umd.edu/about-us/awards/2-uncategorised/263-prangeprize.html)
 - [Dilip Madan](http://www.rhsmith.umd.edu/directory/dilip-b-madan)
-- [Rajarshi Roy](http://www.ipr.umd.edu/~rroy/)
+- [Rajarshi Roy](http://ireap.umd.edu/faculty/roy)
 
 I have worked in the asset managemnt industry since my graduation in 2005.
