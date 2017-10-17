@@ -8,17 +8,15 @@ subtitle: Old and new projects
 
 ## Time-series momentum (trend-following)
 
-Proposed prototipical trend-following strategy which average performance and standard deviation of the performance admits a close form solution. 
+Proposed prototipical trend-following strategy which average performance and standard deviation admits a close form solution. 
 
 Initial results were presented at [R/Finance 2013](http://www.rinfinance.com/RinFinance2013/agenda/) held at [UIC](http://business.uic.edu/recruiterscompanies/icfd). 
 
-Latest version was presented at [QCMC 2015](http://www.mpipks-dresden.mpg.de/~qcmc15/) held at the [Max Planck Institute for complex systems](http://www.mpipks-dresden.mpg.de/index_en.html). 
+Latest version was presented at [QCMC 2015](http://www.mpipks-dresden.mpg.de/~qcmc15/) held at the [Max Planck Institute for complex systems](https://www.mpipks-dresden.mpg.de/). 
 
 The presentation slides with few interactive plots created using [Shiny](http://shiny.rstudio.com/) can be found at this link [QCMC15](http://52.25.23.86:3838/QCMC15).
 
-Article has been accepted in [Quantitative Finance](http://www.tandfonline.com/loi/rquf20). The most recent preprint is [here](trendF.pdf).
-
-Old preprint can be found [here](http://arxiv.org/abs/1402.3030) or [here](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2396099).
+Final article has been accepted for publication in [Quantitative Finance](http://www.tandfonline.com/loi/rquf20). The most recent [preprint](trendF.pdf) has been substancialy extended, edited and updated. Old preprint can be found [here](http://arxiv.org/abs/1402.3030) or [here](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2396099).
 
 ## Momentum
 
