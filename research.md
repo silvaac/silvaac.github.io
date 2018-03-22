@@ -16,7 +16,7 @@ Latest version was presented at [QCMC 2015](http://www.mpipks-dresden.mpg.de/~qc
 
 The presentation slides with few interactive plots created using [Shiny](http://shiny.rstudio.com/) can be found at this link [QCMC15](http://52.25.23.86:3838/QCMC15).
 
-Final article has been accepted for publication in [Quantitative Finance](http://www.tandfonline.com/loi/rquf20). The most recent [preprint](trendF.pdf) has been substancialy extended, edited and updated. Old preprint can be found [here](http://arxiv.org/abs/1402.3030) or [here](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2396099).
+Final article has been accepted for publication in [Quantitative Finance](http://www.tandfonline.com/loi/rquf20). The most recent [preprint](trendF.pdf) has been substancialy extended, edited and updated.
 
 ## Momentum
 
