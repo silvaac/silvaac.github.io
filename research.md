@@ -4,7 +4,7 @@ title: Research
 subtitle: Old and new projects
 ---
 
-# Artificial data generation
+# Synthetic data generation
 
 The generation of realistic symulated data is of considerable importance in a large set of reaserch areas. In finance and economics, the use of simulated data goes from senario generatio for streess tests, asset pricing and risk control to name a few. The following article intruduces a novel algorithm to generate artificial data applied to the S&P500.
 
