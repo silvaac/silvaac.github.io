@@ -4,6 +4,13 @@ title: Research
 subtitle: Old and new projects
 ---
 
+# Stylized facts in Web3
+
+* Statistical analysis of the Web3 ecosystem, comparing various Web3 tokens with traditional financial assets
+* Compare assets traded on centralized (CEX) and decentralized (DEX) exchanges
+
+[Stylized facts in Web3](https://arxiv.org/abs/2408.07653)
+
 # Synthetic data generation
 
 The generation of realistic symulated data is of considerable importance in a large set of reaserch areas. In finance and economics, the use of simulated data goes from senario generatio for streess tests, asset pricing and risk control to name a few. The following article intruduces a novel algorithm to generate artificial data applied to the S&P500.
