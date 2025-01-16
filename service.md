@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Consulting
+title:
 subtitle: What we offer
 ---
 
