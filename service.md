@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Services
-subtitle: Quantitative finance consulting
+title: Quantitative Finance Consulting
+subtitle: What we offer
 ---
-
-## Services
 
 ### Model Governance
 * Help the client set up the best development, validation, and monitoring practices.
 * Perform independent model review and validation.
-* Suggest the best benchmark and stress test model.
+* Suggest the best benchmark and stress-test model.
 * Documentation review and editing.
 
 ### Empirical research
