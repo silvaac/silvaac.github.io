@@ -4,6 +4,8 @@ title:
 subtitle: What we offer
 ---
 
+<h3 style="text-align: center;">What we offer</h3>
+
 #### Model Governance
 * Help the client set up the best development, validation, and monitoring practices.
 * Perform independent model review and validation.
