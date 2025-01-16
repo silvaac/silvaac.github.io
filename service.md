@@ -18,3 +18,5 @@ subtitle: What we offer
 * Entire research and deployment cycle.
 * Risk and return forecasting and portfolio construction.
 
+![Teahouse finance](img/teahouse_finance_logo.png)
+
