@@ -9,7 +9,6 @@ subtitle: What we offer
 #### Model Governance
 * Help the client set up the best development, validation, and monitoring practices.
 * Perform independent model review and validation.
-* Suggest the best benchmark and stress test practices.
 * Documentation review and editing.
 
 #### Empirical research
