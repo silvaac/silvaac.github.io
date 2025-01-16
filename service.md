@@ -21,7 +21,7 @@ subtitle: What we offer
 #### Education
 * Introduction to quantitative asset management.
 
-<h3 style="text-align: center;">Clients</h1>
+<h3 style="text-align: center;">Clients</h3>
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center;">
