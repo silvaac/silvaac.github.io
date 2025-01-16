@@ -1,24 +1,39 @@
 ---
 layout: page
-title: Quantitative Finance Consulting
+title: Consulting
 subtitle: What we offer
 ---
 
-### Model Governance
+#### Model Governance
 * Help the client set up the best development, validation, and monitoring practices.
 * Perform independent model review and validation.
 * Suggest the best benchmark and stress-test model.
 * Documentation review and editing.
 
-### Empirical research
+#### Empirical research
 * Build or improve custom visualizations through interactive dashboards.
 * Statistical analysis of assets and portfolios.
 
-### Strategies
+#### Strategies
 * Entire research and deployment cycle.
 * Risk and return forecasting and portfolio construction.
 
+#### Education
+* Introduction to quantitative asset management.
+
 ## Clients
 
+<div style="display: flex; justify-content: space-around;">
+  <figure>
+    <img src="img/teahouse_finance_logo.png" alt="Teahouse" style="width: 45%;" width="50" height="50">
+    <figcaption>Teahouse finance</figcaption>
+  </figure>
+  <figure>
+    <img src="img/UEMS.png" alt="UEMS" style="width: 45%;" width="50" height="50">
+    <figcaption>UEMS</figcaption>
+  </figure>
+</div>
+
 <img src="img/teahouse_finance_logo.png" alt="Teahouse finance" width="50" height="50">
+<img src="img/UEMS.png" alt="UEMS" width="50" height="50">
 
