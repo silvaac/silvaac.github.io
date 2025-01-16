@@ -24,16 +24,12 @@ subtitle: What we offer
 ## Clients
 
 <div style="display: flex; justify-content: space-around;">
-  <figure>
+  <figure style="text-align: center;">
+    <figcaption style="margin-bottom: 10px;">Teahouse finance</figcaption>
     <img src="img/teahouse_finance_logo.png" alt="Teahouse" width="50" height="50">
-    <figcaption>Teahouse finance</figcaption>
   </figure>
   <figure>
     <img src="img/UEMS.png" alt="UEMS" width="50" height="50">
     <figcaption>UEMS</figcaption>
   </figure>
 </div>
-
-<img src="img/teahouse_finance_logo.png" alt="Teahouse finance" width="50" height="50">
-<img src="img/UEMS.png" alt="UEMS" width="50" height="50">
-
