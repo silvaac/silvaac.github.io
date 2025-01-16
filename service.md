@@ -25,11 +25,11 @@ subtitle: What we offer
 
 <div style="display: flex; justify-content: space-around;">
   <figure>
-    <img src="img/teahouse_finance_logo.png" alt="Teahouse" style="width: 45%;" width="50" height="50">
+    <img src="img/teahouse_finance_logo.png" alt="Teahouse" width="50" height="50">
     <figcaption>Teahouse finance</figcaption>
   </figure>
   <figure>
-    <img src="img/UEMS.png" alt="UEMS" style="width: 45%;" width="50" height="50">
+    <img src="img/UEMS.png" alt="UEMS" width="50" height="50">
     <figcaption>UEMS</figcaption>
   </figure>
 </div>
