@@ -7,7 +7,7 @@ subtitle: What we offer
 #### Model Governance
 * Help the client set up the best development, validation, and monitoring practices.
 * Perform independent model review and validation.
-* Suggest the best benchmark and stress-test model.
+* Suggest the best benchmark and stress test practices.
 * Documentation review and editing.
 
 #### Empirical research
@@ -21,7 +21,7 @@ subtitle: What we offer
 #### Education
 * Introduction to quantitative asset management.
 
-## Clients
+<h3 style="text-align: center;">Clients</h1>
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center;">
