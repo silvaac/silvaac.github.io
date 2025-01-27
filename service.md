@@ -4,8 +4,6 @@ title:
 subtitle: What we offer
 ---
 
-<h3 style="text-align: center;">What we offer</h3>
-
 #### Model Governance
 * Help the client set up the best development, validation, and monitoring practices.
 * Perform independent model review and validation.
@@ -18,9 +16,10 @@ subtitle: What we offer
 #### Strategies
 * Entire research and deployment cycle.
 * Risk and return forecasting and portfolio construction.
+* Education: introduction to quantitative asset management.
 
-#### Education
-* Introduction to quantitative asset management.
+#### Crypto
+* Protocol, strategies, and deployment guidance. 
 
 <h3 style="text-align: center;">Clients</h3>
 
