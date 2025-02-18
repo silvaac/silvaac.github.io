@@ -10,7 +10,7 @@ subtitle: What we offer
 * Documentation review and editing.
 
 #### Empirical research
-* Build or improve custom visualizations through interactive dashboards.
+* Build or improve custom visualizations through [interactive dashboards](http://139.59.126.232:3838/py-sample/).
 * Statistical analysis of assets and portfolios.
 
 #### Strategies
