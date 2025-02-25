@@ -29,6 +29,7 @@ description: idatafactory
 navbar-links:
   Home: ""
   Services: "service"
+  Portfolio: "portfolio"
   About Me: "aboutme"
   Research: "research"
   Useful Stuff: "usefulstuff"
