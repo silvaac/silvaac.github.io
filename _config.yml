@@ -28,9 +28,9 @@ description: idatafactory
 # List of links in the navigation bar
 navbar-links:
   Home: ""
+  About Me: "aboutme"
   Services: "service"
   Portfolio: "portfolio"
-  About Me: "aboutme"
   Publications: "research"
   Useful Stuff: "usefulstuff"
   # R Server: "http://52.25.23.86:8787/auth-sign-in"
