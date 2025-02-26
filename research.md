@@ -9,7 +9,7 @@ subtitle: Old and new projects
 * Statistical analysis of the Web3 ecosystem, comparing various Web3 tokens with traditional financial assets
 * Compare assets traded on centralized (CEX) and decentralized (DEX) exchanges
 
-[Stylized facts in Web3](https://arxiv.org/abs/2408.07653)
+[Stylized facts in Web3](https://www.aimsciences.org/article/doi/10.3934/fmf.2024021)
 
 # Synthetic data generation
 
