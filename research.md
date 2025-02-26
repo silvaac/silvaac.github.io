@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Publications
 subtitle: Old and new projects
 ---
 
