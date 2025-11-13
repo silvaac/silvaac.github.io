@@ -6,7 +6,7 @@ subtitle: Portfolio
 
 **This page is under construction and more will be added soon.**
 
-#### Live Trading Performance
+#### Actual Trading Performance
 
 * Yield Extracting Strategy (YES)
   ![Performance](yes.png)
