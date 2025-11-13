@@ -9,7 +9,7 @@ subtitle: Portfolio
 #### Live Trading Performance
 
 * Yield Extracting Strategy (YES)
-  ![Performance](04_05_2025 - 11_08_2025.png)
+  ![Performance](yes.png)
 
 #### Sample Dashboards
 
