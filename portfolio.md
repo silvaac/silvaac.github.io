@@ -9,7 +9,7 @@ subtitle: Portfolio
 #### Actual Trading Performance
 
 * Yield Extracting Strategy (YES)
-  ![Performance](yes.png)
+  ![Performance](yes.html)
 
 #### Sample Dashboards
 
