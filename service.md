@@ -4,6 +4,10 @@ title:
 subtitle: What we offer
 ---
 
+#### LLM
+* Simulating financial markets and generating artificial financial data through the use of AI agents.
+* Utilizing AI agents for both fundamental (value) and technical investment strategies.
+  
 #### Model Governance
 * Help the client set up the best development, validation, and monitoring practices.
 * Perform independent model review and validation.
